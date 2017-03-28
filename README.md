@@ -1,2 +1,0 @@
-# MinesweeperProject
-Minesweeper group project
